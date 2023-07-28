@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 '''New class rectangle inherits from BaseGeometry
 '''
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
