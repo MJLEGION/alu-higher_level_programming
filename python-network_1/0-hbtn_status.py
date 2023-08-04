@@ -13,8 +13,8 @@ Example Output:
 import urllib.request
 
 if __name__ == "__main__":
-    '''Something here
-    '''
+    '''Something here'''
+
     url = 'https://alu-intranet.hbtn.io/status'
     request = urllib.request.Request(url)
     with urllib.request.urlopen(request) as response:
