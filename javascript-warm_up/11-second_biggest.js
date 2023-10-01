@@ -1,4 +1,4 @@
-i#!/usr/bin/node
+#!/usr/bin/node
 
 let max = 0;
 let second = 0;
